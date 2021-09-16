@@ -22,7 +22,7 @@ let package = Package(
              url: "https://github.com/krzyzanowskim/CryptoSwift.git",
              from: "1.0.0"),
     .package(name: "secp256k1",
-             url: "https://github.com/GigaBitcoin/secp256k1.swift",
+             url: "git@github.com:Fenetik-NFT/secp256k1.swift.git",
              from: "0.3.0"),
     .package(name: "PromiseKit",
              url: "https://github.com/mxcl/PromiseKit.git",
